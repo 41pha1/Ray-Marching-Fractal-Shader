@@ -1,4 +1,4 @@
-# RayMarchingFractal
+# Ray Marching Fractal Shader
 
 A glsl shader that renders a 3D Fractal using Ray Marching. Here are a few example renders:
 
